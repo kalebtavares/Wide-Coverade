@@ -7,7 +7,7 @@
 
 header {
   margin-top: 47px;
-  margin-left: 42px;
+  margin-left: 20px;
 }
 
 .link-menu {
@@ -44,7 +44,7 @@ header {
 
 section {
   display: inline-block;
-  margin-left: 84px;
+  margin-left: 50px;
   width: 493px;
 }
 
@@ -53,6 +53,7 @@ h1 {
   font-size: 62px;
   font-weight: 700;
   line-height: 82px;
+  margin-top: 300px;
 }
 
 p {
@@ -62,7 +63,7 @@ p {
   line-height: 33px;
   width: 493px;
   margin-top: 47px;
-  margin-bottom: 55px;
+  margin-bottom: 30px;
 }
 
 .button-learn-more {
@@ -72,4 +73,5 @@ p {
   line-height: 27px;
   letter-spacing: 1px;
   cursor: pointer;
+  margin-top: 16px;
 }
