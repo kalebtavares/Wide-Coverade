@@ -1,6 +1,7 @@
 # Landing Page - We Care
 
 Esta é uma landing page de aplicativo de viagens compartilhadas, feita com HTML CSS.
+- Página desenvolvida para dispositivos desktop.
 
 ## Como começar
 
@@ -16,7 +17,7 @@ Acesso o Projeto no Figma em: [https://www.figma.com/design/LzA0ntQdfERw4z41hxvL
 ## Tecnologias utilizadas
 
 - **HTML** - Estrutura da página.
-- **CSS** - Estilização responsiva e moderna.
+- **CSS** - Estilização moderna.
 - **Figma** - Base visual utilizada para criação do projeto.
   
 
